@@ -8,7 +8,7 @@ visual aid to choose background colors for CSS linear-gradient
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [](https://your-live-site-url.com)
 
 ### Built with
 
